@@ -13,7 +13,6 @@ This is an application where we can view various cryptocurrencies, access their 
 ## Sort Filter
 
 ![Simulator Screen Shot - iPhone8 - 2022-10-10 at 22 19 29](https://user-images.githubusercontent.com/81181802/194938844-7a0a3bd4-2bb7-46b4-9c63-5a8321001165.png)
-
 ![Simulator Screen Shot - iPhone8 - 2022-10-10 at 22 19 13](https://user-images.githubusercontent.com/81181802/194938866-a14c9d24-46d0-45e4-b47d-7b4f3461c360.png)
 
 ## Details Screen

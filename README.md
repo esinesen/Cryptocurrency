@@ -4,6 +4,7 @@ This is an application where we can view various cryptocurrencies, access their 
 
   * I developed the application with Swift language and MVC architecture.
   * I used Storyboard and UIKit for design.
+  * I used [Dummy Coins API](https://psp-merchantpanel-service-sandbox.ozanodeme.com.tr/api/v1/dummy/coins) for data.
 
 ## Home Screen
 

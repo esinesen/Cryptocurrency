@@ -8,7 +8,7 @@ This is an application where we can view various cryptocurrencies, access their 
 
 ## Home Screen
 
-![Simulator Screen Shot - iPhone8 - 2022-10-10 at 22 19 13](https://user-images.githubusercontent.com/81181802/194938797-93151f55-6553-4a9f-a8b9-0b6f352626d8.png)
+![Simulator Screen Shot - iPhone8 - 2022-10-10 at 22 19 04](https://user-images.githubusercontent.com/81181802/194951775-61f42abc-4065-418d-82e3-2548981d5131.png)
 
 ## Sort Filter
 

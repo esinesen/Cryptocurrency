@@ -2,9 +2,8 @@
 
 This is an application where we can view various cryptocurrencies, access their details and apply some sort filter like price, market cap, 24h volume, change, listed at.
 
-I developed the application with Swift language and MVC architecture.
-I used Storyboard and UIKit for design.
-I used RapidAPI GeoDB Cities for data.
+  * I developed the application with Swift language and MVC architecture.
+  * I used Storyboard and UIKit for design.
 
 ## Home Screen
 
